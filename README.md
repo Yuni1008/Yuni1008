@@ -18,10 +18,11 @@ An IT / Informatics Engineering student passionate about exploring various field
 
 ---
 
-### 📊 GitHub Activity
-![Yuni's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuni1008&theme=tokyonight)
+### 📊 Aktivitas GitHub
 
 ![Yuni's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yuni1008&theme=tokyonight)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yuni1008&color=blueviolet&style=flat-square)
 
 ---
 
