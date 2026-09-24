@@ -19,8 +19,8 @@ An IT / Informatics Engineering student passionate about exploring various field
 ---
 
 ### 📊 GitHub Stats
-![Yuni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuni1008&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuni1008&layout=compact&theme=tokyonight)
+![Yuni's GitHub Readme Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yuni1008&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yuni1008&layout=compact&theme=tokyonight)
 
 ---
 
